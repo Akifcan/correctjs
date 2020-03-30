@@ -1,0 +1,15 @@
+{
+  "name": "correctjs",
+  "version": "1.0.6",
+  "description": "ligtweight validation library for javascript",
+  "main": "correct.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "validate",
+    "validation"
+  ],
+  "author": "Akifcan Kara",
+  "license": "ISC"
+}
